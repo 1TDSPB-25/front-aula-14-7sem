@@ -70,7 +70,8 @@ a {
     color : orange
     
 }
-grid-cards {
+
+.cards-grid {
     display: grid;
     grid-template-columns: 1fr;
     gap: 20px;
